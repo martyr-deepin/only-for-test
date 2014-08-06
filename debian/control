@@ -1,0 +1,12 @@
+Source: only-for-test
+Section: misc
+Priority: optional
+Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: only-for-test
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: TEST
+ FIXME!
