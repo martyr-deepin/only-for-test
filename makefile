@@ -1,4 +1,5 @@
 all:
 
 dist:
-	tar zcf dist.tar.gz *
+	tar zcf core.tar.gz * --exclude=templates/
+	tar zcf app_config.tar.gz templates/
