@@ -1,0 +1,30 @@
+.theme_personal {
+    padding-right: 14px;
+}
+.theme_personal_info{
+    background-color: #fff;
+    /*height:100px;*/
+    width:1164px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:15px;
+    padding:38px 0 41px 50px;
+}
+.theme_personal_img {
+    float:left;
+    margin-right: 20px;
+}
+.theme_personal_img img {
+    width:68px;
+    height:68px;
+    border-radius: 68px;
+}
+.theme_personal_con p:first-of-type {
+    margin-top:12px;
+    font-size:18px;
+    margin-bottom: 9px;
+}
+.theme_personal_con p:last-of-type {
+    font-size:12px;
+    color:#ACB2BE;
+}

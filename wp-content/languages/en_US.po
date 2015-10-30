@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.4\n"
+
+# NAV
+msgid "BBS"
+msgstr "Forum"
+
+msgid "WIKI"
+msgstr "Wiki"
+
+msgid "PLANET"
+msgstr "Planet"
+
+msgid "BUG"
+msgstr "User Feedback"
+
+msgid "MIRROR"
+msgstr "Mirrors"
+
+msgid "LOGIN"
+msgstr "Login"
+
+msgid "REGISTER"
+msgstr "Register"
+
+msgid "SEARCH-PLACEHOLDER"
+msgstr "Please input the search content"
+
+msgid "BLOG"
+msgstr "Blog"
+
+msgid "HOT-CAT"
+msgstr "Hot Category"
+
+msgid "DEEPIN-ID"
+msgstr "Deepin ID"
+
+msgid "COMMUNITY-ANNOUNCEMENT"
+msgstr "Community Announcement"
+
+msgid "REPLEASE-NOTES"
+msgstr "Release Notes"
+
+msgid "SYSTEM-UPDATE"
+msgstr "System Update"
+
+msgid "MEDIA-REPORTS"
+msgstr "Media Reports"
+
+msgid "WONDERFUL-ACTIVITIES"
+msgstr "Wonderful Activities"
+
+msgid "COMMUNITY-ANNOUNCEMENT-LINK"
+msgstr "http://blog.deepin.org/category/community-dynamics/community-announcement/"
+
+msgid "REPLEASE-NOTES-LINK"
+msgstr "http://blog.deepin.org/category/deepin-system/release-notes/"
+
+msgid "SYSTEM-UPDATE-LINK"
+msgstr "http://blog.deepin.org/category/deepin-system/system-update/"
+
+msgid "MEDIA-REPORTS-LINK"
+msgstr "http://blog.deepin.org/category/news-information/media-reports/"
+
+msgid "WONDERFUL-ACTIVITIES-LINK"
+msgstr "http://blog.deepin.org/category/news-information/wonderful-activities/"
+
+msgid "CATEGORY"
+msgstr "Category"
+
+# FOOTER
+msgid "ABOUT-US"
+msgstr "About Us"
+
+msgid "LINKS"
+msgstr "Links"
+
+msgid "CONTACT-US"
+msgstr "Contact Us"
+
+msgid "COPYRIGHT"
+msgstr "2011-2015 Wuhan Deepin Technology Co., Ltd."
+
+# MAIN
+msgid "CONTRIBUTE"
+msgstr "Contribute"
+
+msgid "RECOMMENDED"
+msgstr "Readings Recommended"
+
+msgid "TOP"
+msgstr "Back to top"
+
+msgid "TEXT"
+msgstr "Text"
+
+# SEARCH
+msgid "SEARCH"
+msgstr "Search"
+
+msgid "SEARCH-RESULT"
+msgstr "Search result: \"%1$s\" related contents of \"%2$s\" found"
+
+# PAGE
+msgid "NEXT"
+msgstr "Next"
+
+msgid "PREV"
+msgstr "Prev"
