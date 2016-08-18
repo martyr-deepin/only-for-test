@@ -1,7 +1,1 @@
-
-print ("wello jenkins")
-
-
-print('test')
-
-
+print ("hello jenkins")
